@@ -2,7 +2,9 @@
 The bank management system is based on a concept of recording customer's account details. Here the user can perform all the tasks like creating an account, deposit amount, withdraw amount, check balance, view all account holders details, close an account and modify an account. All the main features for a banking system are set in this project.
 This program uses features of object-oriented programming and file handling of C++. In order to store all the user's data, an external file (DAT file) is created by the system, so every the program into the system, it can operate with the existing accounts.
 
-Program Structure:The program consists of these steps
+Program Structure:
+
+The program consists of these steps:
 
 * First it shows the menu
 * Then it asks the user to select an option to perform any task
